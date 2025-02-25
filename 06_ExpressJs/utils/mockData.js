@@ -1,0 +1,27 @@
+export const mockProductData = [
+    { id: 1, name: "cosmetics", price: "$10" },
+    { id: 2, name: "groceries", price: "$5" },
+    { id: 3, name: "healthcare", price: "$20" },
+    { id: 4, name: "electronics", price: "$50" },
+    { id: 5, name: "furniture", price: "$200" },
+    { id: 6, name: "clothing", price: "$30" },
+    { id: 7, name: "toys", price: "$15" },
+    { id: 8, name: "books", price: "$12" },
+    { id: 9, name: "stationery", price: "$8" },
+    { id: 10, name: "kitchenware", price: "$25" },
+    { id: 11, name: "sports equipment", price: "$100" },
+    { id: 12, name: "gardening tools", price: "$35" },
+    { id: 13, name: "pet supplies", price: "$40" },
+  ];
+  export const mockUsers = [
+    { id: 1, name: "Alice", username: "alice123", password: "a1ic3P@ssw0rd" },
+    { id: 2, name: "Bob", username: "bob_the_builder", password: "B0bBu1ld@r" },
+    { id: 3, name: "Charlie", username: "charlie_chaplin", password: "Ch@rlie123" },
+    { id: 4, name: "David", username: "david_goliath", password: "D@vidG0liath" },
+    { id: 5, name: "Eve", username: "eve_apple", password: "EveAppl3!" },
+    { id: 6, name: "Frank", username: "frank_stein", password: "Fr@nkSt3in" },
+    { id: 7, name: "Grace", username: "graceful", password: "Gr@c3ful2025" },
+    { id: 8, name: "Hank", username: "hank_the_tank", password: "H@nkTank#8" },
+    { id: 9, name: "Ivy", username: "ivy_poison", password: "IvY@P0is0n" },
+    { id: 10, name: "Jack", username: "jack_sparrow", password: "J@ckSp@rrow!" },
+];

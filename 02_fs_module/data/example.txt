@@ -1,0 +1,2 @@
+Hello from Node Js, I am learning filesystem
+This is a new line that is added to the file
